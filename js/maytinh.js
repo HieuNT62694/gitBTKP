@@ -43,6 +43,7 @@ $(document).ready(function () {
     if (phep_tinh == '/') {
       if (so_b == 0) {
         alert('Số b khác 0');
+        sob.focus();
         return false;
       }
       kq=a/b;
