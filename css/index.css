@@ -1,0 +1,50 @@
+.container{
+  margin: auto;
+  width: 100%;
+}
+.gia{
+  color: red;
+  text-transform: uppercase;
+  font-size: 30px;
+}
+.chon{
+  display: inline;
+}
+.mua{
+  background-color: #e5990d;
+  height: 50px;
+  width: 150px;
+  margin: 10px;
+  border: none;
+  float: left;
+  color: white;
+  text-transform: uppercase;
+
+}
+.tru{
+  background-color: black;
+  height: 30px;
+  width: 30px;
+  border: none;
+  color: white;
+  float: left;
+  margin-top: 30px;
+}
+.cong{
+  background-color: black;
+  height: 30px;
+  width: 30px;
+  border: none;
+  color: white;
+  float: left;
+  margin-top: 30px;
+}
+.sosp{
+  background-color: #fff;
+  text-align: center;
+  height: 30px;
+  width: 50px;
+  border: none;
+  float: left;
+  margin-top: 30px;
+}
